@@ -1,13 +1,13 @@
 @media only screen and (min-width: 992px) {
 	.hotaru-cover {
-		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/tenshi_1890x400.webp) no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/tenshi_1890x400.webp) no-repeat;
 		background-size: 100%; 
 	}
 }
 @media only screen and (max-width: 992px) {
 	#location, tr td:nth-child(4)		{ display:none; visibility:hidden; }
 	.hotaru-cover {
-		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/tenshi_1890x400.webp) no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/tenshi_1890x400.webp) no-repeat;
 		background-size: 100%; 
 	}
 }
@@ -16,11 +16,11 @@
 	#location, tr td:nth-child(4)		{ display:none; visibility:hidden; }
 	#uptime, tr td:nth-child(5)			{ display:none; visibility:hidden; }
 	.hotaru-cover {
-		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/tenshi.webp) no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/tenshi.webp) no-repeat;
 		background-size: 100%; 
 	}
 	body {
-		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/bg_parts.webp) repeat-y left top, url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/bg.webp) repeat left top;
+		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/bg_parts.webp) repeat-y left top, url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/bg.webp) repeat left top;
 	}
 }
 @media only screen and (max-width: 600px) {
@@ -29,11 +29,11 @@
 	#uptime, tr td:nth-child(5)			{ display:none; visibility:hidden; }
 	#load, tr td:nth-child(6)			{ display:none; visibility:hidden; }
 	.hotaru-cover {
-		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/tenshi.webp) no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/tenshi.webp) no-repeat;
 		background-size: 100%; 
 	}
 	body {
-		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/bg_parts.webp) repeat-y left top, url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/bg.webp) repeat left top;
+		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/bg_parts.webp) repeat-y left top, url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/bg.webp) repeat left top;
 	}
 }
 @media only screen and (max-width: 533px) {
@@ -43,11 +43,11 @@
 	#traffic, tr td:nth-child(8)		{ display:none; visibility:hidden; }
 	#load, tr td:nth-child(6)			{ display:none; visibility:hidden; }
 	.hotaru-cover {
-		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/tenshi.webp) no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/tenshi.webp) no-repeat;
 		background-size: 100%; 
 	}
 	body {
-		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/bg_parts.webp) repeat-y left top, url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/bg.webp) repeat left top;
+		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/bg_parts.webp) repeat-y left top, url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/bg.webp) repeat left top;
 	}
 }
 @media only screen and (max-width: 450px) {
@@ -61,10 +61,10 @@
 	#hdd, tr td:nth-child(11)		{ display:none; visibility:hidden; }
 	#cpu, #ram { min-width: 20px; max-width: 40px; }
 	.hotaru-cover {
-		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/tenshi.webp) no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/tenshi.webp) no-repeat;
 		background-size: 100%; 
 	}
 	body {
-		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/bg_parts.webp) repeat-y left top, url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/bg.webp) repeat left top;
+		background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/bg_parts.webp) repeat-y left top, url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/bg.webp) repeat left top;
 	}
 }
