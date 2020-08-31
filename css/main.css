@@ -2,7 +2,7 @@ body {
 	font-family: "Microsoft YaHei", 微软雅黑, 'icons';
 	position: relative;
 	z-index: 1;
-	background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/bg_key.webp) no-repeat right top, url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/bg_parts.webp) repeat-y left top, url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus-Hotaru/web/img/bg.webp) repeat left top;
+	background: url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/bg_key.webp) no-repeat right top, url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/bg_parts.webp) repeat-y left top, url(https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/bg.webp) repeat left top;
 }
 
 a {
