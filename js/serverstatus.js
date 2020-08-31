@@ -72,7 +72,11 @@ function bytesToSize(bytes, precision, si)
 }
 
 function uptime() {
-    $.getJSON("https://sj.him411.top/stats.json", function(result) {
+    $.ajax({
+    url: 'https://sj.him411.top/stats.json',
+    type: 'get',
+    dataType: 'jsonp',
+});, function(result) {
       alert(result);
       var shstr = '<div class="col-lg-4 col-md-4 col-sm-4">'+
                        ' <div class="panel panel-block panel-block-sm panel-location">'+
