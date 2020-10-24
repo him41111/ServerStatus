@@ -39,7 +39,7 @@ function uptime() {
             var shstr = '<div class="col-lg-4 col-md-4 col-sm-4">' +
                 ' <div class="panel panel-block panel-block-sm panel-location">' +
                 '<div class="location-header">' +
-                ' <h3 class="h4"><img src="img/clients/@region.png" alt="@region"> @name <small>@type</small></h3>' +
+                ' <h3 class="h4"><img src="https://cdn.jsdelivr.net/gh/him41111/ServerStatus@master/img/clients/webp/@region.webp"> @name <small>@type</small></h3>' +
                 '   <i class="zmdi zmdi-check-circle @online"></i>' +
                 '   </div>' +
                 '  <div class="location-progress">' +
